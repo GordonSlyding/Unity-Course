@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{26005786-6F87-D14A-9974-E2C6B23063D5}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SpawnManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="13" Column="16" />
+      <File FileName="Assets/Scripts/MoveForward.cs" Line="18" Column="40" />
+      <File FileName="Assets/Scripts/DestryOutOfBound.cs" Line="23" Column="40" />
+      <File FileName="Assets/Scripts/SpawnManager.cs" Line="38" Column="28" />
+      <File FileName="Assets/Scripts/ScoreSystem.cs" Line="12" Column="25" />
+      <File FileName="Assets/Scripts/DetectCollision.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Prototype 2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="SpawnManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c87d86ba-8499-4403-86bf-2e3766d60e60" />
+</Properties>

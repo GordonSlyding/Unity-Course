@@ -5,8 +5,7 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     public float horizontalInput;
-    public float verticalInput;
-    public float speed = 10.0f;
+    public float speed = 17.0f;
     public float xRange = 24;
 
     public GameObject projectilePreFab;
@@ -14,33 +13,33 @@ public class PlayerController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (transform.position.x > 24)
+        // Player cannot get out of map
+        if (transform.position.x > xRange)
         {
             transform.position = new Vector3(xRange, transform.position.y, transform.position.z);
         }
-
-        if (transform.position.x < -24)
+        if (transform.position.x < -xRange)
         {
             transform.position = new Vector3(-xRange, transform.position.y, transform.position.z);
         }
 
+        // Launch a projectile
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            // Launch a projectile
+            
             Instantiate(projectilePreFab, transform.position, transform.rotation);
         }
 
+        // Moves player horizontally
         horizontalInput = Input.GetAxis("Horizontal");
-        verticalInput = Input.GetAxis("Vertical");
-
-        transform.Translate(Vector3.right * horizontalInput * Time.deltaTime * speed); 
-        transform.Translate(Vector3.forward * verticalInput * Time.deltaTime * speed);
+        transform.Translate(Vector3.right * horizontalInput * Time.deltaTime * speed);
+        
 
     }
 }
