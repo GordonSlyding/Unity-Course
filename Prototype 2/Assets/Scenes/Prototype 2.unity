@@ -328,6 +328,7 @@ MonoBehaviour:
   - {fileID: 672828747613716573, guid: a5b766fda7a424b7fab68078ca83edc7, type: 3}
   - {fileID: 6289272303118346408, guid: 60d41e47456da4da9aa8939b2000e3ab, type: 3}
   - {fileID: 4541779794800066034, guid: a2a319518783d4854aa8014e201a8890, type: 3}
+  gameOverText: {fileID: 1924396341}
 --- !u!1 &425805626
 GameObject:
   m_ObjectHideFlags: 0
@@ -1080,7 +1081,7 @@ GameObject:
   - component: {fileID: 1924396342}
   - component: {fileID: 1924396341}
   m_Layer: 5
-  m_Name: GameOver
+  m_Name: GameOverText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
