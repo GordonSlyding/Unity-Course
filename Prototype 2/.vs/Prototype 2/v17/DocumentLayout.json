@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Gordo\\OneDrive\\Desktop\\Projekte\\Unity\\Prototype 2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|c:\\users\\gordo\\onedrive\\desktop\\projekte\\unity\\prototype 2\\assets\\scripts\\moveforward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moveforward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|c:\\users\\gordo\\onedrive\\desktop\\projekte\\unity\\prototype 2\\assets\\challenge 2\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 2\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|c:\\users\\gordo\\onedrive\\desktop\\projekte\\unity\\prototype 2\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|c:\\users\\gordo\\onedrive\\desktop\\projekte\\unity\\prototype 2\\assets\\challenge 2\\scripts\\destroyoutofboundsx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 2\\scripts\\destroyoutofboundsx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|c:\\users\\gordo\\onedrive\\desktop\\projekte\\unity\\prototype 2\\assets\\challenge 2\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 2\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MoveForward.cs",
-              "DocumentMoniker": "C:\\Users\\Gordo\\OneDrive\\Desktop\\Projekte\\Unity\\Prototype 2\\Assets\\Scripts\\MoveForward.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MoveForward.cs",
-              "ToolTip": "C:\\Users\\Gordo\\OneDrive\\Desktop\\Projekte\\Unity\\Prototype 2\\Assets\\Scripts\\MoveForward.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MoveForward.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "DocumentIndex": 1,
+              "Title": "DestroyOutOfBoundsX.cs",
+              "DocumentMoniker": "C:\\Users\\Gordo\\OneDrive\\Desktop\\Projekte\\Unity\\Prototype 2\\Assets\\Challenge 2\\Scripts\\DestroyOutOfBoundsX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 2\\Scripts\\DestroyOutOfBoundsX.cs",
+              "ToolTip": "C:\\Users\\Gordo\\OneDrive\\Desktop\\Projekte\\Unity\\Prototype 2\\Assets\\Challenge 2\\Scripts\\DestroyOutOfBoundsX.cs",
+              "RelativeToolTip": "Assets\\Challenge 2\\Scripts\\DestroyOutOfBoundsX.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T22:55:44.296Z",
+              "WhenOpened": "2024-06-20T23:16:00.518Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "C:\\Users\\Gordo\\OneDrive\\Desktop\\Projekte\\Unity\\Prototype 2\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
-              "ToolTip": "C:\\Users\\Gordo\\OneDrive\\Desktop\\Projekte\\Unity\\Prototype 2\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "DocumentIndex": 2,
+              "Title": "PlayerControllerX.cs",
+              "DocumentMoniker": "C:\\Users\\Gordo\\OneDrive\\Desktop\\Projekte\\Unity\\Prototype 2\\Assets\\Challenge 2\\Scripts\\PlayerControllerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 2\\Scripts\\PlayerControllerX.cs",
+              "ToolTip": "C:\\Users\\Gordo\\OneDrive\\Desktop\\Projekte\\Unity\\Prototype 2\\Assets\\Challenge 2\\Scripts\\PlayerControllerX.cs",
+              "RelativeToolTip": "Assets\\Challenge 2\\Scripts\\PlayerControllerX.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T22:09:17.091Z",
+              "WhenOpened": "2024-06-20T23:01:45.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpawnManagerX.cs",
+              "DocumentMoniker": "C:\\Users\\Gordo\\OneDrive\\Desktop\\Projekte\\Unity\\Prototype 2\\Assets\\Challenge 2\\Scripts\\SpawnManagerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 2\\Scripts\\SpawnManagerX.cs",
+              "ToolTip": "C:\\Users\\Gordo\\OneDrive\\Desktop\\Projekte\\Unity\\Prototype 2\\Assets\\Challenge 2\\Scripts\\SpawnManagerX.cs",
+              "RelativeToolTip": "Assets\\Challenge 2\\Scripts\\SpawnManagerX.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T22:54:17.875Z",
               "EditorCaption": ""
             }
           ]
